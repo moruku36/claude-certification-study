@@ -1,0 +1,152 @@
+[
+  {
+    "id": "S01",
+    "title": "Pearson program / 試験プログラム",
+    "url": "https://www.pearsonvue.com/us/en/anthropic.html",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S02",
+    "title": "Certification catalog / 認定一覧",
+    "url": "https://anthropic-partners.skilljar.com/page/partner-certifications",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S03",
+    "title": "Eligibility / 受験資格",
+    "url": "https://anthropic-partners.skilljar.com/page/certification-eligibility",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S04",
+    "title": "Certification FAQ / FAQ",
+    "url": "https://anthropic-partners.skilljar.com/page/faq-certifications",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S05",
+    "title": "OnVUE / オンライン受験",
+    "url": "https://www.pearsonvue.com/us/en/anthropic/onvue.html",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S06",
+    "title": "Public Claude Academy / 公開学習",
+    "url": "https://academy.claude.com/",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S07",
+    "title": "Prompt engineering",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S08",
+    "title": "Building effective agents",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S09",
+    "title": "Messages API",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/working-with-messages",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S10",
+    "title": "Define success and evaluations",
+    "url": "https://platform.claude.com/docs/en/test-and-evaluate/develop-tests",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S11",
+    "title": "Models",
+    "url": "https://platform.claude.com/docs/en/about-claude/models/overview",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S12",
+    "title": "Context windows",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/context-windows",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S13",
+    "title": "Tool use",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S14",
+    "title": "Claude Code docs",
+    "url": "https://code.claude.com/docs/en/overview",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "S15",
+    "title": "MCP resources, prompts, tools",
+    "url": "https://modelcontextprotocol.io/docs/learn/server-concepts",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "G-CCAR-F",
+    "title": "CCAR-F English exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F6nizmqk8tpzpfjvt6qmmav7rh%2Fpublic%2F1783542750%2FClaude+Certified+Architect+%E2%80%93+Foundations+Exam+Guide.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "G-CCAR-P",
+    "title": "CCAR-P English exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F6nizmqk8tpzpfjvt6qmmav7rh%2Fpublic%2F1783542810%2FClaude+Certified+Architect+%E2%80%93+Professional+Exam+Guide.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "G-CCAO-F",
+    "title": "CCAO-F English exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F6nizmqk8tpzpfjvt6qmmav7rh%2Fpublic%2F1783542847%2FClaude+Certified+Associate+%E2%80%93+Foundations+Exam+Guide.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "G-CCDV-F",
+    "title": "CCDV-F English exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F6nizmqk8tpzpfjvt6qmmav7rh%2Fpublic%2F1783542875%2FClaude+Certified+Developer+%E2%80%93+Foundations+Exam+Guide.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "J-CCAO-F",
+    "title": "CCAO-F Japanese exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1791481639%2FClaude+Certified+Associate+-+Foundations+Exam+Guide+%28Japanese%29.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "J-CCAR-F",
+    "title": "CCAR-F Japanese exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1791481681%2FClaude+Certified+Architect+-+Foundations+Exam+Guide+%28Japanese%29.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "J-CCAR-P",
+    "title": "CCAR-P Japanese exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1791481658%2FClaude+Certified+Architect+-+Professional+Exam+Guide+%28Japanese%29.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "J-CCDV-F",
+    "title": "CCDV-F Japanese exam guide",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1791481607%2FClaude+Certified+Developer+-+Foundations+Exam+Guide+%28Japanese%29.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "P01",
+    "title": "Certification Terms and Conditions",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1782870634%2FCertification+Terms+and+Conditions.pdf",
+    "checked_on": "2026-10-13"
+  },
+  {
+    "id": "P02",
+    "title": "Certification Exam Policy",
+    "url": "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1782870704%2FAnthropic+Certification+Exam+Policy.pdf",
+    "checked_on": "2026-10-13"
+  }
+]

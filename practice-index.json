@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Q01",
+    "answer": "A",
+    "select": 1,
+    "domain": "Prompting and Task Execution"
+  },
+  {
+    "question": "Q02",
+    "answer": "A",
+    "select": 1,
+    "domain": "Output Evaluation and Validation"
+  },
+  {
+    "question": "Q03",
+    "answer": "B",
+    "select": 1,
+    "domain": "Product and Model Selection"
+  },
+  {
+    "question": "Q04",
+    "answer": "C",
+    "select": 1,
+    "domain": "Workflow Integration and Solution Design"
+  },
+  {
+    "question": "Q05",
+    "answer": "B",
+    "select": 1,
+    "domain": "Configuration and Knowledge Management"
+  },
+  {
+    "question": "Q06",
+    "answer": "C",
+    "select": 1,
+    "domain": "Governance, Risk, and Responsible Use"
+  },
+  {
+    "question": "Q07",
+    "answer": "B",
+    "select": 1,
+    "domain": "Troubleshooting and Optimization"
+  },
+  {
+    "question": "Q08",
+    "answer": "C",
+    "select": 1,
+    "domain": "Agentic Architecture & Orchestration"
+  },
+  {
+    "question": "Q09",
+    "answer": "C",
+    "select": 1,
+    "domain": "Tool Design & MCP Integration"
+  },
+  {
+    "question": "Q10",
+    "answer": "A",
+    "select": 1,
+    "domain": "Claude Code Configuration & Workflows"
+  },
+  {
+    "question": "Q11",
+    "answer": "B",
+    "select": 1,
+    "domain": "Prompt Engineering & Structured Output"
+  },
+  {
+    "question": "Q12",
+    "answer": "C",
+    "select": 1,
+    "domain": "Context Management & Reliability"
+  },
+  {
+    "question": "Q13",
+    "answer": "B",
+    "select": 1,
+    "domain": "Agents and Workflows"
+  },
+  {
+    "question": "Q14",
+    "answer": "B",
+    "select": 1,
+    "domain": "Applications and Integration"
+  },
+  {
+    "question": "Q15",
+    "answer": "B",
+    "select": 1,
+    "domain": "Claude Code"
+  },
+  {
+    "question": "Q16",
+    "answer": "C",
+    "select": 1,
+    "domain": "Eval, Testing, and Debugging"
+  },
+  {
+    "question": "Q17",
+    "answer": "B",
+    "select": 1,
+    "domain": "Model Selection and Optimization"
+  },
+  {
+    "question": "Q18",
+    "answer": "B",
+    "select": 1,
+    "domain": "Prompt and Context Engineering"
+  },
+  {
+    "question": "Q19",
+    "answer": "B",
+    "select": 1,
+    "domain": "Security and Safety"
+  },
+  {
+    "question": "Q20",
+    "answer": "B",
+    "select": 1,
+    "domain": "Tools and MCPs"
+  },
+  {
+    "question": "Q21",
+    "answer": "B",
+    "select": 1,
+    "domain": "Solution Design & Architecture"
+  },
+  {
+    "question": "Q22",
+    "answer": "C",
+    "select": 1,
+    "domain": "Claude Models, Prompting & Context Engineering"
+  },
+  {
+    "question": "Q23",
+    "answer": "B",
+    "select": 1,
+    "domain": "Integration"
+  },
+  {
+    "question": "Q24",
+    "answer": "C",
+    "select": 1,
+    "domain": "Evaluation, Testing & Optimization"
+  },
+  {
+    "question": "Q25",
+    "answer": "B",
+    "select": 1,
+    "domain": "Governance, Safety & Risk Management"
+  },
+  {
+    "question": "Q26",
+    "answer": "C",
+    "select": 1,
+    "domain": "Stakeholder Communication & Lifecycle Management"
+  },
+  {
+    "question": "Q27",
+    "answer": "B",
+    "select": 1,
+    "domain": "Developer Productivity & Operational Enablement"
+  },
+  {
+    "question": "Q28",
+    "answer": "AC",
+    "select": 2,
+    "domain": "Synthesis"
+  },
+  {
+    "question": "Q29",
+    "answer": "AB",
+    "select": 2,
+    "domain": "Synthesis"
+  },
+  {
+    "question": "Q30",
+    "answer": "BD",
+    "select": 2,
+    "domain": "Synthesis"
+  }
+]
